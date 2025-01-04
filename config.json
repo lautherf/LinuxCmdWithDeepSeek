@@ -1,0 +1,7 @@
+{
+    "api_key": "your key sk-xxxxxxxxxxxxxxxxxx",
+    "model": "deepseek-chat",
+    "response_format": {
+      "type": "json_object"
+    }
+  }

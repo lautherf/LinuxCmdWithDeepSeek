@@ -1,0 +1,12 @@
+{
+    "model": "deepseek-chat",
+    "response_format": {
+      "type": "json_object"
+    },
+    "messages": [
+      {
+        "role": "system",
+        "content": "你是一个助手，返回 JSON 格式的响应。响应必须包含一个 'command' 字段，值为可执行的 Linux 命令。"
+      }
+    ]
+  }
